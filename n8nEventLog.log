@@ -1,0 +1,2 @@
+{"__type":"$$EventMessageAudit","id":"4920fe44-8781-45cd-9689-56eb2efbe439","ts":"2026-02-16T09:23:44.424+00:00","eventName":"n8n.audit.user.login.success","message":"n8n.audit.user.login.success","payload":{"userId":"0cb21f19-ebc7-46b2-81bf-0a36756d6137","_email":"lahsayaya13@gmail.com","_firstName":"Ageng","_lastName":"Lahsa","globalRole":"global:owner","authenticationMethod":"email"}}
+{"__type":"$$EventMessageConfirm","confirm":"4920fe44-8781-45cd-9689-56eb2efbe439","ts":"2026-02-16T09:23:44.425+00:00","source":{"id":"0","name":"eventBus"}}
